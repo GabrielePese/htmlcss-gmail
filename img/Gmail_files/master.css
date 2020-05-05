@@ -1,0 +1,63 @@
+*{
+  margin; 0
+  padding; 0
+  box-sizing: bolder-box;
+}
+body{
+  background-image: url("../img/sfondo.jpg");
+  margin: 0px 100px;
+
+}
+#logo{
+  width: 100px;
+  vertical-align: middle;
+}
+
+.scritta {
+  color: white;
+  font-size: 25px;
+}
+
+#ricerca{
+  height: auto;
+}
+.rigatrenta{
+  font-size: 25px;
+  color: white;
+}
+#trenta{
+  padding: 10px;
+  border-radius: 70%;
+  background-color: orange;
+  height: 10px;
+
+}
+#testomail{
+  color: grey;
+
+}
+#stella{
+  vertical-align: middle;
+  width: 50px;
+}
+.posta{
+border: 2px solid black;
+background-color: rgba(164, 165, 171, 0.75);
+height: 30px;
+
+
+}
+#posta2{
+  background-color: white;
+}
+
+footer{
+  text-align: center;
+  color: white;
+}
+
+#foot{
+  font-weight: 800;
+  fontsize: 18px;
+  color: white;
+}

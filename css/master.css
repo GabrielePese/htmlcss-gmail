@@ -1,0 +1,71 @@
+*{
+  margin; 0
+  padding; 0
+  box-sizing: bolder-box;
+}
+body{
+  background-image: url("../img/sfondo.jpg");
+  margin: 0px 100px;
+
+}
+#logo{
+  width: 100px;
+  vertical-align: middle;
+}
+
+.scritta {
+  color: white;
+  font-size: 25px;
+}
+
+#ricerca{
+  height: auto;
+}
+.rigatrenta{
+  font-size: 25px;
+  color: white;
+  padding: 5px;
+}
+#trenta{
+  padding: 5px 3px;
+  border-radius: 70%;
+  background-color: orange;
+  /* height: 10px; */
+
+}
+#testomail{
+  color: grey;
+
+}
+#stella{
+  vertical-align: middle;
+  width: 30px;
+}
+.posta{
+border: 1px solid black;
+background-color: rgba(164, 165, 171, 0.75);
+height: 25px;
+}
+
+.nonletta{
+  background-color: white;
+}
+
+footer{
+  text-align: center;
+  color: white;
+  height: 50px;
+
+
+}
+
+#foot{
+  font-weight: 800;
+  font-size: 25px;
+  color: white;
+
+}
+#foot2{
+  font-style: italic;
+  font-weight: 800;
+}
