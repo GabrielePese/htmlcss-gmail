@@ -27,9 +27,10 @@ body{
   padding: 5px;
 }
 #trenta{
-  padding: 5px 3px;
-  border-radius: 70%;
+  padding: 5px;
+  border-radius: 50%;
   background-color: orange;
+  text-align: center;
   /* height: 10px; */
 
 }
